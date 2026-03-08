@@ -1,0 +1,5 @@
+Zia,Sameed,12052025,20,No
+Ahmad,Taimur,2062025,30,Dental
+Muhammad,Rayan,4062025,26,Heart
+Uzair,Ali,01062025,17,Brain
+Zia,Ali,2032025,30,fgft

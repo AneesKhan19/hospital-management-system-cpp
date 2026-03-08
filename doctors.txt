@@ -1,0 +1,5 @@
+Sameed,Physician,1 pm - 7pm
+Taimur,Dentist,10 am - 4 pm
+Rayan Riaz,Cardiologist,3 pm - 10 pm
+Ali Ahmad,Neuro,9 am - 2 pm
+Usman Ali,Neuro Surgeon,1 pm - 6 pm

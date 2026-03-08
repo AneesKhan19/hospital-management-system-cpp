@@ -1,0 +1,4 @@
+Alyan,21,Heart
+Munir,24,Fever
+Imran,25,Arthritis
+Saeed,40,Kidney Infection
